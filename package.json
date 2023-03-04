@@ -1,7 +1,7 @@
 {
   "name": "mailchimp-apiexercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "still in progress",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,16 @@
   "author": "danaldi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danaldi/Mailchimp-APIexercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danaldi/Mailchimp-APIexercise/issues"
+  },
+  "homepage": "https://github.com/danaldi/Mailchimp-APIexercise#readme"
 }
