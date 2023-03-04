@@ -1,3 +1,3 @@
 # Mailchimp-APIexercise
 
-still in progress
+Post subscriber data into mailchimp list
